@@ -1,3 +1,4 @@
-#Basic React app
-Counter App
+**#Basic React app
+
+Counter App**
 
